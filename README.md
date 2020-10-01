@@ -1,5 +1,5 @@
 # ChitChat
-An instant messaging android application implemented with firebase . User can login/rgister, update profile picture,chat with other users and see the status of message ie. delivered or seen. All the users online have a green dot active.
+An instant messaging android application implemented with firebasee . User can login/rgister, update profile picture,chat with other users and see the status of message ie. delivered or seen. All the users online have a green dot active.
 
 youtube- https://www.youtube.com/watch?v=Dg2oXDAmRBE
 
